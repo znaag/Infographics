@@ -13,7 +13,7 @@ import textwrap
 import matplotlib.font_manager
 
 # Load the dataset
-file_path = r'./content/Dataset(2).csv'
+file_path = r'./Dataset(2).csv'
 data = pd.read_csv(file_path)
 
 # Set the dark background style
